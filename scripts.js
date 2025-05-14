@@ -83,7 +83,7 @@ mm2.add("(min-width: 800px)", () => {
     });
 
     tl2.to('#Black-Cherry-can', {
-        top: "214%",
+        top: "212%",
         left: "42.1%",
         width: "14.5vw",
     }, 'time1')
